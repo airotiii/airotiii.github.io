@@ -1,8 +1,8 @@
 const CACHE_NAME = "version-1";
 const urlsToCache = [
-    'index.html',
-    'tata-logo.jpg',
-    'tata-menu.jpg',
+//     'index.html',
+//     'tata-logo.jpg',
+//     'tata-menu.jpg',
     '/'
 ];
 
