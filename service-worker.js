@@ -3,7 +3,8 @@ const urlsToCache = [
     'index.html',
     'tata-logo.jpg',
     'tata-menu.jpg',
-    '/'
+    '/',
+    '/tata-cafe'
 ];
 
 // Install the service worker and open the cache and add files mentioned in array to cache
