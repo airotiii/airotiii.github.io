@@ -30,6 +30,8 @@ height: 560px;">
 
   const registerServiceWorker = async () => {
   registration = await          navigator.serviceWorker.register('service-worker.js');
+      
+      console.log('Service worker registered successfully.');
   };
 
   registerServiceWorker();
