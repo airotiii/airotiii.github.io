@@ -4,13 +4,10 @@ const cacheName = 'my-cache';
 // put the static assets and routes you want to cache here
 const filesToCache = [
   '/',
-  '/about',
-  '/index.html',
-  '/about.html',
-  '/css/styles.css',
-  '/js/app.js',
-  '/tata-logo.jpg',
-  '/tata-menu.jpg',
+ 
+  'index.html',
+  'tata-logo.jpg',
+  'tata-menu.jpg',
 ];
 
 // the event handler for the activate event
