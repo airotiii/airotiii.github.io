@@ -4,7 +4,8 @@ const urlsToCache = [
     'tata-logo.jpg',
     'tata-menu.jpg',
     '/',
-    'https://airotiii.github.io/tata-cafe/'
+    'https://airotiii.github.io/tata-cafe/',
+    '/tata-cafe/'
 ];
 
 // Install the service worker and open the cache and add files mentioned in array to cache
